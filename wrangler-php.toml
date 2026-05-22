@@ -1,0 +1,14 @@
+# CloudPress PHP Runner Worker (자동 생성)
+name               = "cp-93e792b6-wp-php"
+main               = "php-runner.js"
+compatibility_date = "2025-04-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[kv_namespaces]]
+binding = "CACHE"
+id      = "6aa9db65976549d1a6203dc29b71bde9"
+
+[vars]
+SITE_ID  = "93e792b6-1b94-442b-bbd3-58498068498a"
+GH_OWNER = "choichoi3227-crypto"
+GH_REPO  = "cp-93e792b6-site-93e792b6"
